@@ -1,0 +1,15 @@
+D:\!Users\ligei\Desktop\C# ДЗ_2\task_15_etalon\obj\Debug\net6.0\task_15_etalon.csproj.AssemblyReference.cache
+D:\!Users\ligei\Desktop\C# ДЗ_2\task_15_etalon\obj\Debug\net6.0\task_15_etalon.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Users\ligei\Desktop\C# ДЗ_2\task_15_etalon\obj\Debug\net6.0\task_15_etalon.AssemblyInfoInputs.cache
+D:\!Users\ligei\Desktop\C# ДЗ_2\task_15_etalon\obj\Debug\net6.0\task_15_etalon.AssemblyInfo.cs
+D:\!Users\ligei\Desktop\C# ДЗ_2\task_15_etalon\obj\Debug\net6.0\task_15_etalon.csproj.CoreCompileInputs.cache
+D:\!Users\ligei\Desktop\C# ДЗ_2\task_15_etalon\bin\Debug\net6.0\task_15_etalon.exe
+D:\!Users\ligei\Desktop\C# ДЗ_2\task_15_etalon\bin\Debug\net6.0\task_15_etalon.deps.json
+D:\!Users\ligei\Desktop\C# ДЗ_2\task_15_etalon\bin\Debug\net6.0\task_15_etalon.runtimeconfig.json
+D:\!Users\ligei\Desktop\C# ДЗ_2\task_15_etalon\bin\Debug\net6.0\task_15_etalon.dll
+D:\!Users\ligei\Desktop\C# ДЗ_2\task_15_etalon\bin\Debug\net6.0\task_15_etalon.pdb
+D:\!Users\ligei\Desktop\C# ДЗ_2\task_15_etalon\obj\Debug\net6.0\task_15_etalon.dll
+D:\!Users\ligei\Desktop\C# ДЗ_2\task_15_etalon\obj\Debug\net6.0\refint\task_15_etalon.dll
+D:\!Users\ligei\Desktop\C# ДЗ_2\task_15_etalon\obj\Debug\net6.0\task_15_etalon.pdb
+D:\!Users\ligei\Desktop\C# ДЗ_2\task_15_etalon\obj\Debug\net6.0\task_15_etalon.genruntimeconfig.cache
+D:\!Users\ligei\Desktop\C# ДЗ_2\task_15_etalon\obj\Debug\net6.0\ref\task_15_etalon.dll
